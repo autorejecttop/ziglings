@@ -1,3 +1,5 @@
+# Doing it for the luls
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
